@@ -1,1 +1,1 @@
-A continuación, presentó los códigos para ambas etapas de la prueba, cada código es ejecutado directamente en la consola del sitio web (https://zwangerpesiri.isolvedhire.com/jobs/) poroporcionado para dicha prueba. 
+A continuación, presentó los códigos para ambas etapas de la prueba, cada código es ejecutado directamente en la consola del sitio web (https://zwangerpesiri.isolvedhire.com/jobs/) proporcionado para dicha prueba. 
